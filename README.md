@@ -268,3 +268,6 @@ Run `npm init -y` inside `server/` first, so the backend has its own `package.js
 ## Notes on Create React App
 
 Create React App is deprecated and no longer receives updates. It is fine for this project, but consider Vite for new projects.
+
+## Author
+   Abdulmalik
